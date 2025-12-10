@@ -1,0 +1,9 @@
+# Chặn file môi trường
+.env
+
+# Chặn thư mục code đã biên dịch (rác)
+dist/
+dist
+
+# Chặn thư mục thư viện nặng nề
+node_modules/
